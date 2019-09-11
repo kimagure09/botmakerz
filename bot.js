@@ -1,3 +1,5 @@
+// setup stuff
+
 const restify = require('restify');
 const botbuilder = require('botbuilder');
 
